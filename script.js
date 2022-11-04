@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Replit Box Remover
+// @name         BetterReplit by CMK.
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Customize and solve problems of Repl.it. By default, darker and cleaner than ever.

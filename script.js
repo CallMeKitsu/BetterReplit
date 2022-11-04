@@ -2,7 +2,7 @@
 // @name         Replit Box Remover
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Customize and solve problems of Repl.it. By default, darker and cleaner than ever.
 // @author       CallMeKitsu
 // @match        https://replit.com/*
 // @icon         https://callmekitsu.com/cdn/assets/branding/logo.png
